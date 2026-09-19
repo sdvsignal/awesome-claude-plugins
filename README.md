@@ -149,6 +149,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### Developer Productivity
 
+- [kit-claude-code-starter](https://github.com/sdvsignal/kit-claude-code-starter) - Drop-in Claude Code setup (CLAUDE.md, allowlist, hooks, ship-check / new-feature / explain-diff skills). Free starter; optional fixed-price Setup Sprint on the Kit page.
 - [CCHub](https://github.com/Moresl/cchub) - Desktop app for managing the Claude Code ecosystem — MCP marketplace, config profiles, skills & plugins browser, workflow templates, security audit. Built with Tauri v2 + React + Rust.
 
 - [developer-growth-analysis](./developer-growth-analysis) - Analyzes your recent Claude Code chat history to identify coding patterns, development gaps, and curates personalized learning resources.
